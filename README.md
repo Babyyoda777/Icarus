@@ -9,4 +9,7 @@ A custom meshtastic PCB based on ESP-32 S3 and LoRa RA-01SH, designed to be full
 
 <img width="604" alt="Screenshot 2024-09-01 at 16 50 13" src="https://github.com/user-attachments/assets/80293c4b-0fe2-412a-bcaa-78611a49dfe7">
 
+# 3D Renders:
+<img width="823" alt="Screenshot 2024-09-01 at 16 51 30" src="https://github.com/user-attachments/assets/624c87a4-a081-4fd9-947c-cf2488e95ecc">
+
 Note: Currently untested, please wait until I place an order and check if it all works :)

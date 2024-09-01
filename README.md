@@ -1,4 +1,4 @@
-[BOM_Meshtastic-Full_2024-09-01.csv](https://github.com/user-attachments/files/16829591/BOM_Meshtastic-Full_2024-09-01.csv)# Meshtastic ESP-RA
+# Meshtastic ESP-RA
 A custom meshtastic PCB based on ESP-32 S3 and LoRa RA-01SH, designed to be fully assembled by JLCPCB.
 
 # Schematics:

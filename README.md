@@ -15,5 +15,5 @@ A custom meshtastic PCB based on ESP-32 S3 and LoRa RA-01SH, designed to be full
 <img width="902" alt="Screenshot 2024-09-02 at 11 14 55" src="https://github.com/user-attachments/assets/1a1d3d2a-4560-4eb4-a3a4-848eb29905b8">
 
 # OSHWLab:
-https://oshwlab.com/azlan777/meshtastic [https://oshwlab.com/azlan777/meshtastic]
+https://oshwlab.com/azlan777/meshtastic
 Note: Currently untested, please wait until I place an order and check if it all works :)

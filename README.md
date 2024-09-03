@@ -2,17 +2,19 @@
 A custom meshtastic PCB based on ESP-32 S3 and LoRa RA-01SH, designed to be fully assembled by JLCPCB.
 
 # Schematics:
-<img width="871" alt="Screenshot 2024-09-02 at 11 14 02" src="https://github.com/user-attachments/assets/fbbed6b4-ad49-4e45-bc97-9bc93b39a763">
+<img width="928" alt="Screenshot 2024-09-03 at 18 28 05" src="https://github.com/user-attachments/assets/e3a3b925-f948-4575-ab59-a2228409cd9b">
 
 # PCB:
-<img width="670" alt="Screenshot 2024-09-02 at 11 14 24" src="https://github.com/user-attachments/assets/55591796-cd9d-41e0-9575-9d7bac9a9e4e">
 
-<img width="662" alt="Screenshot 2024-09-02 at 11 14 34" src="https://github.com/user-attachments/assets/9c450473-39d0-496a-838f-40b58a40e5ac">
+<img width="821" alt="Screenshot 2024-09-03 at 18 28 20" src="https://github.com/user-attachments/assets/b6b0c6c9-2320-4ff8-88f6-902906f0adda">
+
+<img width="833" alt="Screenshot 2024-09-03 at 18 28 30" src="https://github.com/user-attachments/assets/592c1dfb-5c25-4787-8e19-87cc20cbc46c">
 
 
 # 3D Renders:
 
-<img width="902" alt="Screenshot 2024-09-02 at 11 14 55" src="https://github.com/user-attachments/assets/1a1d3d2a-4560-4eb4-a3a4-848eb29905b8">
+<img width="802" alt="Screenshot 2024-09-03 at 18 28 53" src="https://github.com/user-attachments/assets/80117a75-d8ba-42d6-9262-a79c6a1cc644">
+
 
 # OSHWLab:
 https://oshwlab.com/azlan777/meshtastic

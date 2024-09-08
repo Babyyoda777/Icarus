@@ -2,18 +2,18 @@
 A custom meshtastic PCB based on ESP-32 S3 and LoRa RA-01SH, designed to be fully assembled by JLCPCB.
 
 # Schematics:
-<img width="928" alt="Screenshot 2024-09-03 at 18 28 05" src="https://github.com/user-attachments/assets/e3a3b925-f948-4575-ab59-a2228409cd9b">
+<img width="1196" alt="Screenshot 2024-09-08 at 15 03 15" src="https://github.com/user-attachments/assets/e08962a6-5459-44dc-bd96-aba36588dc4c">
+
 
 # PCB:
 
-<img width="821" alt="Screenshot 2024-09-03 at 18 28 20" src="https://github.com/user-attachments/assets/b6b0c6c9-2320-4ff8-88f6-902906f0adda">
-
-<img width="833" alt="Screenshot 2024-09-03 at 18 28 30" src="https://github.com/user-attachments/assets/592c1dfb-5c25-4787-8e19-87cc20cbc46c">
 
 
 # 3D Renders:
 
-<img width="802" alt="Screenshot 2024-09-03 at 18 28 53" src="https://github.com/user-attachments/assets/80117a75-d8ba-42d6-9262-a79c6a1cc644">
+<img width="417" alt="Screenshot 2024-09-08 at 15 03 36" src="https://github.com/user-attachments/assets/9750ada6-4429-4097-91b9-9ff8349484c7">
+
+<img width="420" alt="Screenshot 2024-09-08 at 15 05 24" src="https://github.com/user-attachments/assets/deb786ec-d5b3-4255-b9cd-9665b49028d3">
 
 
 # OSHWLab:

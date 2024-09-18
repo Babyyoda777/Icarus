@@ -1,4 +1,5 @@
-# Meshtastic ESP-RA
+# Icarus
+
 A custom meshtastic PCB based on ESP32-S3 N8R8 and LoRa RA-01SH, designed to be fully assembled by JLCPCB.
 
 # Schematics:

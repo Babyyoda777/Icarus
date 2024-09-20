@@ -1,5 +1,7 @@
 # Icarus
 
+![render](https://github.com/user-attachments/assets/22b80967-06a8-44ba-bc94-71e3a311b39f)
+
 A custom meshtastic PCB based on ESP32-S3 N8R8 and LoRa RA-01SH, designed to be fully assembled by JLCPCB.
 
 # Schematics:

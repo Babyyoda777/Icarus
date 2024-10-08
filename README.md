@@ -18,6 +18,7 @@ Note: Currently untested, please wait until I place an order and check if it all
 
 ![image](https://github.com/user-attachments/assets/9f5497b2-2a1a-4409-9326-196def48467f)
 
+Thanks so much to Bob from EasyEDA for his help along the way!
 
 # Credits
 

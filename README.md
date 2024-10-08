@@ -18,8 +18,8 @@ Note: Currently untested, please wait until I place an order and check if it all
 
 # Sponsored by JLCPCB
 
-<img src="[image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZIvyIFZkxubUbUVsAy9UEyzlSB8BeP0vfBg&s)" height="100">
-<img src="[image](https://usercontent.one/wp/www.samacsys.com/wp-content/uploads/2019/09/EasyEDA.png?media=1715592215)" height="100">
+![image](https://github.com/user-attachments/assets/9f5497b2-2a1a-4409-9326-196def48467f)
+
 
 # Credits
 

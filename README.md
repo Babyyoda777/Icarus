@@ -22,4 +22,4 @@ Note: Currently untested, please wait until I place an order and check if it all
 
 # Credits
 
-Thanks so much to @Nestpebble[https://github.com/Nestpebble] (as well as all the other great people in the Discord) for the help and feedback!
+Thanks so much to [@Nestpebble](https://github.com/Nestpebble) (as well as all the other great people in the Discord) for the help and feedback!

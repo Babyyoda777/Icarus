@@ -89,7 +89,7 @@ export const Features = () => {
       <FeatureSection grayer center>
         <Text center>
           <Title size="md">
-            1.3"&nbsp;
+            1.3&quot;&nbsp;
             <GradientText className="amber-red">
                OLED
             </GradientText>{" "}

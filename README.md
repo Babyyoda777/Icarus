@@ -10,7 +10,7 @@ Checkout the documentation here: https://docs.azlan.works
 
 # OSHWLab:
 
-Link: https://oshwlab.com/azlan777/meshtastic
+Link: https://oshwlab.com/azlan777/icarus-v1
 
 Note: Currently untested, please wait until I place an order and check if it all works :)
 

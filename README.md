@@ -14,9 +14,10 @@ Link: https://oshwlab.com/azlan777/icarus-v1
 
 Note: Currently untested, please wait until I place an order and check if it all works :)
 
-# Sponsored by JLCPCB
+# Sponsored by OSHWLab Stars
 
-![image](https://github.com/user-attachments/assets/9f5497b2-2a1a-4409-9326-196def48467f)
+![image](https://github.com/user-attachments/assets/16d1e47d-2fb1-46dd-94f9-946d2b1e0203)
+![image](https://github.com/user-attachments/assets/8ce64a1d-b027-4764-8049-84d04f10fd1b)
 
 Thanks so much to Bob from EasyEDA for his help along the way!
 

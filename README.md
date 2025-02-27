@@ -12,7 +12,7 @@ Checkout the documentation here: https://docs.azlan.works
 
 Link: https://oshwlab.com/azlan777/icarus-v1
 
-Note: Currently untested, please wait until I place an order and check if it all works :)
+Note: v1 Works however do not place order as significantly improved v2 is on the way!
 
 # Sponsored by OSHWLab Stars
 

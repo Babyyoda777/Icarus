@@ -14,6 +14,10 @@ Link: https://oshwlab.com/azlan777/icarus-v1
 
 Note: v1 Works however do not place order as significantly improved v2 is on the way!
 
+v2 is now available with added LK67 GPS and improved BMS:
+
+Link: https://oshwlab.com/azlan777/icarus-v2
+
 # Sponsored by OSHWLab Stars
 
 ![image](https://github.com/user-attachments/assets/16d1e47d-2fb1-46dd-94f9-946d2b1e0203)

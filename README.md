@@ -34,4 +34,4 @@ Thanks so much to Bob from EasyEDA for his help along the way!
 
 # Credits
 
-Thanks so much to [@Nestpebble](https://github.com/Nestpebble) (as well as all the other great people in the Discord) for the help and feedback!
+Thanks so much to [@NomDeTom](https://github.com/NomDeTom) (as well as all the other great people in the Discord) for the help and feedback!
